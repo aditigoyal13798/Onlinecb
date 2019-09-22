@@ -1,1 +1,1 @@
-web: gunicorn OnlineCBDjango-master.wsgi
+web: gunicorn OnlineCBDjango.wsgi
